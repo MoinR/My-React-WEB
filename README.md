@@ -1,4 +1,4 @@
-# My-React-APP
+# My-React-WEB
 Playing with basics of react - js 
 
 In this project I have created below components. 
